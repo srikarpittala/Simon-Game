@@ -56,4 +56,11 @@ A browser-based memory game inspired by the classic **Simon Says**, developed us
 - Make it mobile-responsive for better gameplay on phones.  
 
 ---
+## 🔹 Author
+👤 Created by *Srikar*  
+🔗 LinkedIn: 
+www.linkedin.com/in/srikarpittala  
+📧 Email: srikarpittala3706@gmail.com  
+
+---
 
