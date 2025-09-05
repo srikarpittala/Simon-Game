@@ -30,15 +30,22 @@ A browser-based memory game inspired by the classic **Simon Says**, developed us
 ---
 
 ## 🎯 Demo  
-🔗 [Live Demo](https://yourusername.github.io/your-repo-name/)  
+🔗 [Live Demo](https://srikarpittala.github.io/Simon-Game/)  
 
-*(Replace with your actual GitHub Pages or Netlify link)*  
 
 ---
 
 ## 📷 Preview  
-![Game Screenshot](images/screenshot.png)  
-*(Add a screenshot of your game in the `images/` folder and update the path above)*  
+
+### 🟢 Start Screen  
+![Start Screen](preview_images/start.png)  
+
+### 🔢 Level Progression  
+![Levels](preview_images/levels.png)  
+
+### ❌ Game Over  
+![Game Over](preview_images/gameover.png)  
+
 
 ---
 
