@@ -1,10 +1,10 @@
-# 🎮 Simon Game  
+#  Simon Game  
 
 A browser-based memory game inspired by the classic **Simon Says**, developed using **HTML, CSS, JavaScript, and jQuery**. The game challenges players to repeat an ever-growing sequence of colors and sounds, testing memory and focus. Features include sequence generation, smooth animations, sound feedback, input validation, and restart functionality. This project demonstrates strong use of **DOM manipulation, event handling, and game logic implementation**.  
 
 ---
 
-## 📌 Features  
+##  Features  
 - Four interactive color buttons with corresponding sound effects.  
 - Randomly generated sequences that grow in difficulty each level.  
 - Smooth animations and feedback for correct/incorrect moves.  
@@ -12,7 +12,7 @@ A browser-based memory game inspired by the classic **Simon Says**, developed us
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 - **HTML** – structure and layout  
 - **CSS** – styling and animations  
 - **JavaScript (ES6)** – game logic and DOM manipulation  
@@ -20,7 +20,7 @@ A browser-based memory game inspired by the classic **Simon Says**, developed us
 
 ---
 
-## 🚀 How to Play  
+##  How to Play  
 1. Press any key to start the game.  
 2. Watch the sequence of flashing colors and sounds.  
 3. Repeat the sequence by clicking the buttons in the correct order.  
@@ -29,34 +29,34 @@ A browser-based memory game inspired by the classic **Simon Says**, developed us
 
 ---
 
-## 🎯 Demo  
+##  Demo  
 🔗 [Live Demo](https://srikarpittala.github.io/Simon-Game/)  
 
 
 ---
 
-## 📷 Preview  
+##  Preview  
 
-### 🟢 Start Screen  
+###  Start Screen  
 ![Start Screen](preview_images/start.png)  
 
-### 🔢 Level Progression  
+###  Level Progression  
 ![Levels](preview_images/levels.png)  
 
-### ❌ Game Over  
+###  Game Over  
 ![Game Over](preview_images/gameover.png)  
 
 
 ---
 
-## 💡 Future Enhancements  
+##  Future Enhancements  
 - Add difficulty levels (Easy, Medium, Hard).  
 - Implement a high-score system with local storage.  
 - Add background music and advanced sound effects.  
 - Make it mobile-responsive for better gameplay on phones.  
 
 ---
-## 🔹 Author
+##  Author
 👤 Created by *Srikar*  
 🔗 LinkedIn: 
 www.linkedin.com/in/srikarpittala  
